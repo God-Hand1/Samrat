@@ -1,0 +1,5 @@
+{
+  "name": "Turbo AI Chatbot",
+  "description": "A full-featured AI chatbot powered by the Rox-Turbo API with streaming support and markdown formatting.",
+  "requestFramePermissions": []
+}
